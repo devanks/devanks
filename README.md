@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Devan K S
+
+## 🎯About me:
+
+Computer Science and Engineering graduate from NITC with a passion for challenges. I am working as a full stack developer in Ford Smart Mobility. I aim to learn more about different architecture paradigms and help in designing high-quality systems. My career aim is to become a software architect.
+
 
 <!--
 **devanks/devanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
