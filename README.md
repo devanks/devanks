@@ -12,7 +12,7 @@ Computer Science and Engineering graduate from NITC with a passion for challenge
 
 ## 🌱 I’m currently learning 
 
-Majorly I have been investing in learing Kubernetes. The idea of using pods and containers for most purposes seemed interesting to me.
+Majorly I have been investing in learning Kubernetes. The idea of using pods and containers for most purposes seemed interesting to me.
 My small experience working with our Jenkins builds which ran on pods helped me understand enough to get me curious.
 I would love to talk to more experts of the topic.
 
